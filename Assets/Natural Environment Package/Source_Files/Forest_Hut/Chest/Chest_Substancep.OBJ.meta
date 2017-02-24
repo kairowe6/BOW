@@ -1,0 +1,107 @@
+fileFormatVersion: 2
+guid: 48202f0681687004bb6f2de0263cc2fc
+timeCreated: 1445965794
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Chest_Lockclinge_Chest_Lockclinge_reduced_ZBrush_defualt_group
+    100002: //RootNode
+    100004: Chest_Substancep_Chest_Bottom_UV_chestbottom2_retopology_ZBrush_defualt_group1_Chest_Substancep_polySurface2_polySurface7
+    100006: Chest_Substancep_Chest_Hinge_Chest_hinge_finish_Group4_Chest_Substancep_Chest_Hinge_polySurface2_Chest_Substancep_polySurface2
+    100008: Chest_Substancep_Chest_Hinge_group1_Chest_Substancep_Chest_Hinge_pasted__Chest_hinge_finish_Group5_Chest_Substancep_Chest_Hinge
+    100010: Chest_Substancep_Chest_Hinge_group1_Chest_Substancep_Chest_Hinge_pasted__Chest_hinge_finish_Group6_Chest_Substancep_Chest_Hinge
+    100012: Chest_Substancep_Chest_Smallplate_chestholdingretopo_ZBrush_defualt_group1_Chest_Substancep_polySurface2_polySurface5
+    100014: Chest_Substancep_Chest_Top_UV_Chest_upper_zbruv_Group2_Chest_Substancep_polySurface2_polySurface6
+    100016: Chest_Substancep_CHESTLOCKPLATTEEETETETNIGGGAGAGALOWP_ZBrush_defualt_group1_Chest_Substancep_polySurface2_polySurface8
+    400000: Chest_Lockclinge_Chest_Lockclinge_reduced_ZBrush_defualt_group
+    400002: //RootNode
+    400004: Chest_Substancep_Chest_Bottom_UV_chestbottom2_retopology_ZBrush_defualt_group1_Chest_Substancep_polySurface2_polySurface7
+    400006: Chest_Substancep_Chest_Hinge_Chest_hinge_finish_Group4_Chest_Substancep_Chest_Hinge_polySurface2_Chest_Substancep_polySurface2
+    400008: Chest_Substancep_Chest_Hinge_group1_Chest_Substancep_Chest_Hinge_pasted__Chest_hinge_finish_Group5_Chest_Substancep_Chest_Hinge
+    400010: Chest_Substancep_Chest_Hinge_group1_Chest_Substancep_Chest_Hinge_pasted__Chest_hinge_finish_Group6_Chest_Substancep_Chest_Hinge
+    400012: Chest_Substancep_Chest_Smallplate_chestholdingretopo_ZBrush_defualt_group1_Chest_Substancep_polySurface2_polySurface5
+    400014: Chest_Substancep_Chest_Top_UV_Chest_upper_zbruv_Group2_Chest_Substancep_polySurface2_polySurface6
+    400016: Chest_Substancep_CHESTLOCKPLATTEEETETETNIGGGAGAGALOWP_ZBrush_defualt_group1_Chest_Substancep_polySurface2_polySurface8
+    2300000: Chest_Lockclinge_Chest_Lockclinge_reduced_ZBrush_defualt_group
+    2300002: Chest_Substancep_Chest_Bottom_UV_chestbottom2_retopology_ZBrush_defualt_group1_Chest_Substancep_polySurface2_polySurface7
+    2300004: Chest_Substancep_Chest_Hinge_Chest_hinge_finish_Group4_Chest_Substancep_Chest_Hinge_polySurface2_Chest_Substancep_polySurface2
+    2300006: Chest_Substancep_Chest_Hinge_group1_Chest_Substancep_Chest_Hinge_pasted__Chest_hinge_finish_Group5_Chest_Substancep_Chest_Hinge
+    2300008: Chest_Substancep_Chest_Hinge_group1_Chest_Substancep_Chest_Hinge_pasted__Chest_hinge_finish_Group6_Chest_Substancep_Chest_Hinge
+    2300010: Chest_Substancep_Chest_Smallplate_chestholdingretopo_ZBrush_defualt_group1_Chest_Substancep_polySurface2_polySurface5
+    2300012: Chest_Substancep_Chest_Top_UV_Chest_upper_zbruv_Group2_Chest_Substancep_polySurface2_polySurface6
+    2300014: Chest_Substancep_CHESTLOCKPLATTEEETETETNIGGGAGAGALOWP_ZBrush_defualt_group1_Chest_Substancep_polySurface2_polySurface8
+    3300000: Chest_Lockclinge_Chest_Lockclinge_reduced_ZBrush_defualt_group
+    3300002: Chest_Substancep_Chest_Bottom_UV_chestbottom2_retopology_ZBrush_defualt_group1_Chest_Substancep_polySurface2_polySurface7
+    3300004: Chest_Substancep_Chest_Hinge_Chest_hinge_finish_Group4_Chest_Substancep_Chest_Hinge_polySurface2_Chest_Substancep_polySurface2
+    3300006: Chest_Substancep_Chest_Hinge_group1_Chest_Substancep_Chest_Hinge_pasted__Chest_hinge_finish_Group5_Chest_Substancep_Chest_Hinge
+    3300008: Chest_Substancep_Chest_Hinge_group1_Chest_Substancep_Chest_Hinge_pasted__Chest_hinge_finish_Group6_Chest_Substancep_Chest_Hinge
+    3300010: Chest_Substancep_Chest_Smallplate_chestholdingretopo_ZBrush_defualt_group1_Chest_Substancep_polySurface2_polySurface5
+    3300012: Chest_Substancep_Chest_Top_UV_Chest_upper_zbruv_Group2_Chest_Substancep_polySurface2_polySurface6
+    3300014: Chest_Substancep_CHESTLOCKPLATTEEETETETNIGGGAGAGALOWP_ZBrush_defualt_group1_Chest_Substancep_polySurface2_polySurface8
+    4300000: Chest_Lockclinge_Chest_Lockclinge_reduced_ZBrush_defualt_group
+    4300002: Chest_Substancep_Chest_Bottom_UV_chestbottom2_retopology_ZBrush_defualt_group1_Chest_Substancep_polySurface2_polySurface7
+    4300004: Chest_Substancep_Chest_Hinge_Chest_hinge_finish_Group4_Chest_Substancep_Chest_Hinge_polySurface2_Chest_Substancep_polySurface2
+    4300006: Chest_Substancep_Chest_Hinge_group1_Chest_Substancep_Chest_Hinge_pasted__Chest_hinge_finish_Group5_Chest_Substancep_Chest_Hinge
+    4300008: Chest_Substancep_Chest_Hinge_group1_Chest_Substancep_Chest_Hinge_pasted__Chest_hinge_finish_Group6_Chest_Substancep_Chest_Hinge
+    4300010: Chest_Substancep_Chest_Smallplate_chestholdingretopo_ZBrush_defualt_group1_Chest_Substancep_polySurface2_polySurface5
+    4300012: Chest_Substancep_Chest_Top_UV_Chest_upper_zbruv_Group2_Chest_Substancep_polySurface2_polySurface6
+    4300014: Chest_Substancep_CHESTLOCKPLATTEEETETETNIGGGAGAGALOWP_ZBrush_defualt_group1_Chest_Substancep_polySurface2_polySurface8
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
